@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Nelson's awesome website
@@ -13,24 +12,24 @@ What if I add some text here...?
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-## Here's a subsection
+# Here's a subsection
 
 And here's some additional text
 
-## Links to other websites
+# Links to other websites
 
 Let's link to useful tools for data sciences:
 
 - [Google](https://www.google.com/)
 - [P8105](https://p8105.com)
 
-## Local image
+# Local image
 
 Here's a picture of me:
 
 ![](images/Headshot.jpeg)
 
-## Link to page within the site
+# Link to page within the site
 
 [About me](about.html)
 
