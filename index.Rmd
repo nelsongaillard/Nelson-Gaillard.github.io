@@ -27,7 +27,7 @@ Let's link to useful tools for data sciences:
 
 Here's a picture of me:
 
-![](images/Headshot.jpeg)
+<img src="images/Headshot.jpeg" style=width:50%">
 
 # Link to page within the site
 
